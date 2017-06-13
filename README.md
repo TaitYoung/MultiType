@@ -1,3 +1,9 @@
+> fork至drakeet。
+
+## TODO
+- 封装BaseRvAdapter,针对简单列表，快速开发。
+- 添加下拉、上拉RecyclerView组件。
+
 # MultiType
 An Android library to create multiple item types list views easily and flexibly.
 
